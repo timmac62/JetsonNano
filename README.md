@@ -17,6 +17,8 @@ NOTE: for all apps you will typically want to:
 
 ## Hello AI World - Coding Your Own
 
+mount that baby
+
 # Acronymns
 
 **COCO**
